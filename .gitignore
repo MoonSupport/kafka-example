@@ -1,2 +1,9 @@
 **/data/
 **/logs/
+*.lock
+*.xml
+*.class
+*.jar
+*.MF
+*.iml
+*.xml
